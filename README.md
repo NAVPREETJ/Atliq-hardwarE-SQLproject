@@ -14,8 +14,9 @@
 6.Views 
 <hr>
 7.Procedures
-
+<hr>
 Tools Used: MySQL ,Excel
+<hr>
 💼 Business insights💼
 📈 Sales optimization,
 💡 Identify new growth opportunities,
@@ -26,6 +27,4 @@ Key highlights of the project include:
 - Creating reports for top markets, products, and customers 📊🌍💼
 - Analyzing net sales percent share in different regions 📈🌐💰
 - Leveraging business insights for strategic decision-making 🤝📊
-
-It's been an enriching experience that has not only enhanced my technical skills but also provided valuable insights into the dynamic world of business analytics. 💡💼
 
