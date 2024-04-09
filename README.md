@@ -2,21 +2,21 @@
  I did this project while doing my codebasics basic to advanced Sql course.In this project I run queries to find out the forecast accuracy of different years for different products. Not only this I compared the values of different years to know that in which year forecast accuracy is low. The report genereated will provide the actionable insights to business.
 
 1.MY learnings
-<hr>
+<br>
 2.Join
-<hr>
+<br>
 3.UNION
-<hr>
+<br>
 4.Temporary table
-<hr>
+<br>
 5.CTE
-<hr>
+<br>
 6.Views 
-<hr>
+<br>
 7.Procedures
-<hr>
+<br>
 Tools Used: MySQL ,Excel
-<hr>
+<br>
 💼 Business insights💼
 📈 Sales optimization,
 💡 Identify new growth opportunities,
